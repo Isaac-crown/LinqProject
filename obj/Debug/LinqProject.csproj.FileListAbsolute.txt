@@ -1,0 +1,8 @@
+C:\Users\USER\Source\Repos\LinqProject\bin\Debug\LinqProject.exe.config
+C:\Users\USER\Source\Repos\LinqProject\bin\Debug\LinqProject.exe
+C:\Users\USER\Source\Repos\LinqProject\bin\Debug\LinqProject.pdb
+C:\Users\USER\Source\Repos\LinqProject\obj\Debug\LinqProject.csproj.AssemblyReference.cache
+C:\Users\USER\Source\Repos\LinqProject\obj\Debug\LinqProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\Source\Repos\LinqProject\obj\Debug\LinqProject.csproj.CoreCompileInputs.cache
+C:\Users\USER\Source\Repos\LinqProject\obj\Debug\LinqProject.exe
+C:\Users\USER\Source\Repos\LinqProject\obj\Debug\LinqProject.pdb
